@@ -1,13 +1,11 @@
-# Loan Prediction Using Machine Learning
+# COVID-19 Data Analysis Project
 
-This project applies classification algorithms to predict whether a loan application will be approved.
+This project analyzes the global impact of COVID-19 across continents using Python (Pandas & Matplotlib).
 
-## Features
-- Data cleaning and feature engineering
-- Logistic Regression and Decision Tree models
-- Evaluation using accuracy and ROC-AUC
-
-[Click here to view the full project report (PDF)](https://drive.google.com/your-public-link)
+## Highlights
+- Data cleaning and transformation
+- Grouping by continent
+- Visualizations and trend analysis
 
 ## Dataset
-Sample loan dataset from [Kaggle/UCI/Your source]
+Source: [GitHub COVID Dataset](https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv)
